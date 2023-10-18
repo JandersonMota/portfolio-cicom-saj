@@ -77,7 +77,6 @@ body{
 
 .apresentacao__conteudo__subtitulo {
     font-family: var(--fonte-secundaria);
-    color: var(--cor-secundaria);
     font-size: 2rem;
 }
 
